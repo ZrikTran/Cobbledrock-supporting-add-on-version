@@ -130,3 +130,6 @@ Placement: **ground** = on solid terrain · **surface** = on top of water/terrai
 | `/scriptevent lota:alerts_status` | Alerts config summary (enabled tiers, sound, cooldowns) |
 | `/scriptevent lota:wild_spawn` / `lota:legendary_spawn` | Force an immediate spawn attempt (must be in a matching biome) |
 | `/scriptevent lota:alerts_test` | Send a test alert to every player |
+
+
+*** : Addons Cobblebrock by Lota882
